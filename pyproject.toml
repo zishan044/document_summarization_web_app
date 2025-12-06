@@ -8,5 +8,6 @@ dependencies = [
     "fastapi[standard]>=0.124.0",
     "langchain>=1.1.2",
     "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.0",
     "pymupdf>=1.26.6",
 ]
